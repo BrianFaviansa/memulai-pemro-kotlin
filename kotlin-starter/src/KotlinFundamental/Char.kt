@@ -1,3 +1,5 @@
+package KotlinFundamental
+
 fun main() {
     var vocal = 'A'
 

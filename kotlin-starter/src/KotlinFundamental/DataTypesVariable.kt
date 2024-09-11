@@ -1,3 +1,5 @@
+package KotlinFundamental
+
 fun main() {
     val firstWord = "Dicoding "
     val secondWord = "Academy"

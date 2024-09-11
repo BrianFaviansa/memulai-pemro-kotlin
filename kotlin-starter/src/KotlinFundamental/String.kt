@@ -1,3 +1,5 @@
+package KotlinFundamental
+
 fun main() {
     val text = "Dicoding"
     val fourthChar = text[3]

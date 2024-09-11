@@ -1,3 +1,5 @@
+package KotlinFundamental
+
 // main function
 fun main() {
     val name = "Hibou"
