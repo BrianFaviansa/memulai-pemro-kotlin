@@ -1,4 +1,4 @@
-package KotlinFundamental
+package kotlin.fundamental
 
 fun main() {
     val text = "Dicoding"

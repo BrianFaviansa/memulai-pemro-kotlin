@@ -1,4 +1,4 @@
-package KotlinFundamental
+package kotlin.fundamental
 
 fun main(args: Array<String>) {
     val openHours = 7
