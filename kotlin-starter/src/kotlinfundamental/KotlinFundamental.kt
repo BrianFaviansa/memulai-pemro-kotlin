@@ -1,4 +1,4 @@
-package kotlin.fundamental
+package kotlinfundamental
 
 // main function
 fun main() {

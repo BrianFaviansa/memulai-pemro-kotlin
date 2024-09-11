@@ -1,4 +1,4 @@
-package kotlin.fundamental
+package kotlinfundamental
 
 fun main() {
 //    Conjunction atau AND (&&)
