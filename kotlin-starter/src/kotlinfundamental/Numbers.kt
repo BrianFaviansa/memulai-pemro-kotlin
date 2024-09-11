@@ -15,4 +15,37 @@ fun main() {
     println("Max Int value : $maxInt")
     println("Min Int value : $minInt")
 
+//    Operator Matematika
+    val numberOne = 1
+    val numberTwo = 2
+
+    println(numberOne + numberTwo)
+
+    val nomorSatu: Int = 27
+    val nomorDua: Int = 10
+    println(nomorSatu / nomorDua)
+
+//    Konversi tipe data number
+    val byteNumber2: Byte = 10
+    val intFromByte: Int = byteNumber.toInt()
+
+    /*
+        toByte(): Byte
+        toShort(): Short
+        toInt(): Int
+        toLong(): Long
+        toFloat(): Float
+        toDouble(): Double
+        toChar(): Char
+     */
+
+//    Konversi tipe data dalam expression
+    val stringNumber = "23"
+    val intNumber3 = 3
+
+    println(intNumber3 + stringNumber.toInt())
+
+//    Nilai numerik yang readable
+    val readableNumber = 1_000_000
+    println(readableNumber)
 }
